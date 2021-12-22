@@ -1,3 +1,8 @@
+////////////////////////////////////////
+//               MADE BY:             //
+//   Shadowdragon019/Wolfboycoolkid   //
+////////////////////////////////////////
+
 #priority 1
 
 import crafttweaker.api.item.IItemStack;

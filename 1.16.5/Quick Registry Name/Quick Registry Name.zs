@@ -1,3 +1,8 @@
+////////////////////////////////////////
+//               MADE BY:             //
+//   Shadowdragon019/Wolfboycoolkid   //
+////////////////////////////////////////
+
 #priority 1
 
 import crafttweaker.api.item.IItemStack;
@@ -14,5 +19,5 @@ public function quickRN (input as IIngredient, tagItem as int = 0) as string {
 }
 
 // Example
-// Un-comment to see
+// Uncomment to see
 // print(quickRN(<item:minecraft:dirt>));
